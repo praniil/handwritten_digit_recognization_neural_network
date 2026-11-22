@@ -188,4 +188,4 @@ Contributions are welcome. Fork the repository, create a focused branch, make an
 
 ## License
 
-No license file is currently included. Unless a license is added, the repository's code remains under the default copyright terms of its author.
+This project is licensed under the [MIT License](LICENSE). You may use, copy, modify, and distribute the software, provided that the original copyright and license notice are included.
